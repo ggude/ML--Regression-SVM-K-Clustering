@@ -1,5 +1,5 @@
 function plotDecisionBoundary(theta, X, y)
-%PLOTDECISIONBOUNDARY Plots the data points X and y into a new figure with
+%PLOTDECISIONBOUNDARY Plots  data points X and y into a new figure with
 %the decision boundary defined by theta
 %   PLOTDECISIONBOUNDARY(theta, X,y) plots the data points with + for the 
 %   positive examples and o for the negative examples. X is assumed to be 
